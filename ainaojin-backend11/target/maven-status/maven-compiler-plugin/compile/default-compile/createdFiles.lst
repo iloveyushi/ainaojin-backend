@@ -1,0 +1,4 @@
+com\ainaojin\controller\ChatController.class
+com\ainaojin\service\ChatService.class
+com\ainaojin\AinaojinBackendApplication.class
+com\ainaojin\service\impl\ChatServiceImpl.class
